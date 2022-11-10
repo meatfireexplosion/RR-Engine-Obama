@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: de7599cc018b05a4a890e9c1aecbd121
 ModelImporter:
-  serializedVersion: 21202
+  serializedVersion: 22103
   internalIDToNameTable:
   - first:
       74: -530875327730313893
@@ -222,6 +222,93 @@ ModelImporter:
   - first:
       74: -8772361659261011745
     second: Armature|Mech.001Action
+  - first:
+      74: 5180006667485288967
+    second: Armature|Armature|Armature|Arm L.001
+  - first:
+      74: -8010098542289552973
+    second: Armature|Armature|Armature|Armdown L
+  - first:
+      74: 5035117549396098309
+    second: Armature|Armature|Armature|ArmDown R
+  - first:
+      74: 5081646930582676651
+    second: Armature|Armature|Armature|ArmSwingL
+  - first:
+      74: 1056467778782920339
+    second: Armature|Armature|Armature|ArmSwingR
+  - first:
+      74: -5095378202285135905
+    second: Armature|Armature|Armature|Body Lean
+  - first:
+      74: -7333776003420661386
+    second: Armature|Armature|Armature|EmptyAction
+  - first:
+      74: -1540122421667599507
+    second: Armature|Armature|Armature|EmptyAction.001
+  - first:
+      74: -5662643895484355341
+    second: Armature|Armature|Armature|EmptyAction.002
+  - first:
+      74: 5086257095410255020
+    second: Armature|Armature|Armature|EmptyAction.003
+  - first:
+      74: -7809906135928097376
+    second: Armature|Armature|Armature|EmptyAction.005
+  - first:
+      74: 7577419853559608929
+    second: Armature|Armature|Armature|Eyelid L
+  - first:
+      74: 8949295971179072914
+    second: Armature|Armature|Armature|Eyelid R
+  - first:
+      74: -3127738658866675219
+    second: Armature|Armature|Armature|Eyes Left.002
+  - first:
+      74: 3367206403835439139
+    second: Armature|Armature|Armature|Eyes Right.002
+  - first:
+      74: -4406179086314196291
+    second: Armature|Armature|Armature|Head Left.002
+  - first:
+      74: -2562825729754040080
+    second: Armature|Armature|Armature|Head Right.002
+  - first:
+      74: 7472409186049114895
+    second: Armature|Armature|Armature|Head Up.003
+  - first:
+      74: -1737535227509679438
+    second: Armature|Armature|Armature|Hihat
+  - first:
+      74: 4107085150463634272
+    second: Armature|Armature|Armature|Mech.001Action
+  - first:
+      74: -8708146761559787649
+    second: Armature|Armature|Armature|MouthDook
+  - first:
+      74: 6360423717965138814
+    second: Armature|Armature|Armature|Shoulder L.001
+  - first:
+      74: 3338943576951941232
+    second: Armature|Armature|Armature|SunAction
+  - first:
+      74: 7358092034111622998
+    second: Armature|Armature|Armature|SunAction.001
+  - first:
+      74: 2591636173802423484
+    second: Armature|Armature|Armature|SunAction.002
+  - first:
+      74: 7514043975021520744
+    second: Armature|Armature|Armature|SunAction.003
+  - first:
+      74: -1509162681958157243
+    second: Armature|Armature|Armature|SunAction.004
+  - first:
+      74: -6418177972831880547
+    second: Armature|Armature|Armature|SunAction.005
+  - first:
+      74: 7964198297243595449
+    second: Armature|Armature|Armature|The new Body Lean
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -346,6 +433,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -378,6 +466,8 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
