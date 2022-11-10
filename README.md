@@ -1,7 +1,7 @@
 ![Reel to Reel Icon Stroke - Copy](https://user-images.githubusercontent.com/69170079/180670348-4175cc09-545a-4611-802f-b2d50ef1c0e3.png)
 
 # Obama Mod
-Basically, it replaces everyone with obama (except Studio C and Winchester because Studio C wouldn't auto weight paint in blender and I am not doing that manually and I forgot the Winchester bot and I'm too lazy to do it now). Another thing is I made an oopsie and replaced the wrong costumes with obama for Obuilding and Obally so ooooopssss set pasquallys costume to mech and building to mobile 1 too lazy to fiiixxxxx ittttttt anyways thats all from me
+Basically, it replaces everyone with obama (except Studio C and Winchester because Studio C wouldn't auto weight paint in blender and I am not doing that manually and I forgot the Winchester bot and I'm too lazy to do it now). Another thing is I made an oopsie and replaced the wrong costumes with obama for Obuilding and Obally so ooooopssss set pasquallys costume to mech and building to mobile 1 too lazy to fiiixxxxx ittttttt also I probably uploaded the source code to github wrong I've never used github before in my life so if I did it wrong with I probably did tell me and I might fix it eventually idk anywaysI'll shut up now
 
 # Description
 The RR Engine is a Unity codebase for simulating and animating old animatronics, with various features to customize the viewing experience.
