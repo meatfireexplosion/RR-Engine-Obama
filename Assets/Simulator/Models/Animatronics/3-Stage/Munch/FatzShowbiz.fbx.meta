@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 277c3a803080726408ccd4820372a73a
 ModelImporter:
-  serializedVersion: 21202
+  serializedVersion: 22103
   internalIDToNameTable:
   - first:
       74: 5787983149129970150
@@ -279,6 +279,69 @@ ModelImporter:
   - first:
       74: -1400729384605972557
     second: Mouth
+  - first:
+      74: -223944482348462085
+    second: Armature|Armature|Armature|Arm Twist R.004
+  - first:
+      74: 5081646930582676651
+    second: Armature|Armature|Armature|ArmSwingL
+  - first:
+      74: 1056467778782920339
+    second: Armature|Armature|Armature|ArmSwingR
+  - first:
+      74: -5095378202285135905
+    second: Armature|Armature|Armature|Body Lean
+  - first:
+      74: -6326135808416763610
+    second: Armature|Armature|Armature|CU Cosmeticless.002Action
+  - first:
+      74: 7577419853559608929
+    second: Armature|Armature|Armature|Eyelid L
+  - first:
+      74: 8949295971179072914
+    second: Armature|Armature|Armature|Eyelid R
+  - first:
+      74: 118106656087210115
+    second: Armature|Armature|Armature|Eyes Left
+  - first:
+      74: 3266718698902025167
+    second: Armature|Armature|Armature|Eyes Left.007
+  - first:
+      74: 6512343341781217575
+    second: Armature|Armature|Armature|Eyes Right.007
+  - first:
+      74: -8520488907267174587
+    second: Armature|Armature|Armature|FelbowL
+  - first:
+      74: 7784194664284293138
+    second: Armature|Armature|Armature|FelbowR
+  - first:
+      74: -7547704929904430572
+    second: Armature|Armature|Armature|Foot Tap
+  - first:
+      74: -83299831906181461
+    second: Armature|Armature|Armature|Haed Tip R
+  - first:
+      74: -7724045628837506588
+    second: Armature|Armature|Armature|Head Left
+  - first:
+      74: 7313983232080723029
+    second: Armature|Armature|Armature|Head Right
+  - first:
+      74: -6382985178746308994
+    second: Armature|Armature|Armature|Head Tip L
+  - first:
+      74: -2669139829280339652
+    second: Armature|Armature|Armature|Head Up.002
+  - first:
+      74: -5718973853420086424
+    second: Armature|Armature|Armature|Mouth
+  - first:
+      74: -7512156412992845289
+    second: Armature|Armature|Armature|Shoulder L.004
+  - first:
+      74: 5530567004055042543
+    second: Armature|Armature|Armature|Shoulder R.004
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -418,6 +481,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -450,6 +514,8 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
