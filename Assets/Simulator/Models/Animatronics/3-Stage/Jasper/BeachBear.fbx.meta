@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: d6eb24df996f53a4080c87b4e5ad3844
 ModelImporter:
-  serializedVersion: 21202
+  serializedVersion: 22103
   internalIDToNameTable:
   - first:
       74: -7934734707663110438
@@ -387,6 +387,72 @@ ModelImporter:
   - first:
       74: -3136873770525020641
     second: Eyelid L
+  - first:
+      74: -4640863849814737374
+    second: Armature|Armature|Armature|Arm
+  - first:
+      74: -1665391643715431627
+    second: Armature|Armature|Armature|Body Lean.001
+  - first:
+      74: -6098656929494391025
+    second: Armature|Armature|Armature|Eyelid L.001
+  - first:
+      74: -7614122627176644187
+    second: Armature|Armature|Armature|Eyelid R.001
+  - first:
+      74: 2741775530111598766
+    second: Armature|Armature|Armature|Eyes Cross
+  - first:
+      74: -1800597211567362398
+    second: Armature|Armature|Armature|Guitar Raise
+  - first:
+      74: -7437186944917927706
+    second: Armature|Armature|Armature|Guitar Slide
+  - first:
+      74: -6481494126862343111
+    second: Armature|Armature|Armature|Hand
+  - first:
+      74: -8241574785539010092
+    second: Armature|Armature|Armature|Head Left.001
+  - first:
+      74: -3863435402222635232
+    second: Armature|Armature|Armature|Head Right.001
+  - first:
+      74: 115216192051938448
+    second: Armature|Armature|Armature|Head Up
+  - first:
+      74: -7854195164483788030
+    second: Armature|Armature|Armature|Head Up.001
+  - first:
+      74: -2537430952277152677
+    second: Armature|Armature|Armature|Leg L
+  - first:
+      74: -2986182261099195232
+    second: Armature|Armature|Armature|Leg R
+  - first:
+      74: 5180729541401433115
+    second: Armature|Armature|Armature|Mouth.003
+  - first:
+      74: -2926237022082810893
+    second: Armature|Armature|Armature|Shoukder
+  - first:
+      74: 2257346098190443202
+    second: Armature|Armature|Armature|SphereAction
+  - first:
+      74: -6984270885732507219
+    second: Armature|Armature|Armature|SphereAction.001
+  - first:
+      74: -6558326499226843099
+    second: Armature|Armature|Armature|SphereAction.002
+  - first:
+      74: -3345659248691725536
+    second: Armature|Armature|Armature|SphereAction.003
+  - first:
+      74: 1713765635114886839
+    second: Armature|Armature|Armature|Wrist
+  - first:
+      74: -209775452661218650
+    second: Armature|Guitar|Take 001|BaseLayer
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -576,6 +642,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -608,6 +675,8 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
