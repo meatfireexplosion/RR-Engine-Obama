@@ -66,6 +66,18 @@ ModelImporter:
   - first:
       74: 8324471698542400440
     second: Armature|Mech.001Action.001
+  - first:
+      74: 3312756767770816441
+    second: Armature|Armature|Armature|Head Raise.001
+  - first:
+      74: 4107085150463634272
+    second: Armature|Armature|Armature|Mech.001Action
+  - first:
+      74: 4465166783348815430
+    second: Armature|Armature|Armature|Mech.001Action.001
+  - first:
+      74: -1392640051173498657
+    second: Armature|Armature|Armature|Mouth.001
   externalObjects:
   - first:
       type: UnityEngine:Material
