@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 2824d2fb0dd59bf4a93d0dde9118ff76
 ModelImporter:
-  serializedVersion: 21202
+  serializedVersion: 22103
   internalIDToNameTable:
   - first:
       74: -1990594381437677456
@@ -318,6 +318,33 @@ ModelImporter:
   - first:
       74: 1248456569961433173
     second: Armature|Arm.002
+  - first:
+      74: -4640863849814737374
+    second: Armature|Armature|Armature|Arm
+  - first:
+      74: 5810355090786639107
+    second: Armature|Armature|Armature|Body Turn
+  - first:
+      74: -1809463447380892493
+    second: Armature|Armature|Armature|Eye Left
+  - first:
+      74: -7248454575731823758
+    second: Armature|Armature|Armature|Eye Right.001
+  - first:
+      74: -9008407978612467075
+    second: Armature|Armature|Armature|Eyelid
+  - first:
+      74: 914389751316226565
+    second: Armature|Armature|Armature|Head Turn
+  - first:
+      74: 115216192051938448
+    second: Armature|Armature|Armature|Head Up
+  - first:
+      74: 2555031158120909761
+    second: Armature|Armature|Armature|Jaw
+  - first:
+      74: -6276722461484811680
+    second: Armature|Armature|Armature|Jaw.004
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -457,6 +484,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -489,6 +517,8 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
